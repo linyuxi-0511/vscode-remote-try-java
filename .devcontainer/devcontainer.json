@@ -22,6 +22,14 @@
 			"extensions": [
 				"streetsidesoftware.code-spell-checker"
 			]
+		},
+		"hide": {
+			"tasks": [
+				{
+					"alias": "test",
+					"command": "mvn test"
+				},
+			]
 		}
 	}
 
