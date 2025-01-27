@@ -23,7 +23,7 @@
 				{
 					"alias": "test",
 					"command": "mvn test"
-				}
+				},
 				{
 					"alias": "apple",
 					"command": "ls"
