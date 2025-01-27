@@ -28,7 +28,7 @@
 				{
 					"alias": "test",
 					"command": "mvn test"
-				},
+				}
 			]
 		}
 	}
